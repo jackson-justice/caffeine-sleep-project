@@ -1,6 +1,6 @@
 # Caffeine, Sleep, and Energy Survey Analysis
 
-This project was completed for STAT 250 at Brigham Young University. It explores how daily caffeine use relates to average sleep hours and self-reported energy levels.  
+This project explores how daily caffeine use relates to average sleep hours and self-reported energy levels.
 
 ## Project Overview
 I surveyed over 70 participants to collect data on:
